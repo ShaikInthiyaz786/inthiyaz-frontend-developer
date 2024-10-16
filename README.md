@@ -27,8 +27,8 @@ This project is a web application developed using React and Tailwind CSS, design
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/thematrixlabs-project.git
-   cd thematrixlabs-project
+   git clone https://github.com/ShaikInthiyaz786/inthiyaz-frontend-developer.git
+   cd inthiyaz-frontend-developer
 
    ```
 
