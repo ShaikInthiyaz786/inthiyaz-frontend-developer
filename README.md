@@ -37,9 +37,10 @@ This project is a web application developed using React and Tailwind CSS, design
 
 Then, install project dependencies:
 
-`npm install` 3. **Run the Application: Start the development server**:
+`npm install`
 
-`npm start`
+3. **Run the Application: Start the development server**:
+   `npm start`
 
 Open your browser and navigate to http://localhost:3000 to view the application.
 
